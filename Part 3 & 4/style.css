@@ -1,0 +1,59 @@
+.header {
+   position: absolute;
+   margin-left: 30%;
+  background-color: #34e7e4;
+  width: 40%;
+  height: 20%;
+  
+  border-radius: 5px;
+  
+  
+}
+
+#listme {
+
+    font-family: 'Fugaz One', cursive;
+    margin-top: 2%;
+    margin-left: 35%;
+    font-size: x-large;
+}
+
+
+
+#TXTbx {
+
+   margin-left: 10%;
+    width: 70%;
+    height: 55px;
+
+}
+
+.header .Submit_1 #ntn_1 {
+
+    margin-top: -45px;
+}
+
+.content {
+  
+    
+    position: absolute;
+   margin-left: 33%;
+   margin-top: 9.5%;
+  width: 40%;
+  height: 70%;
+  
+  border-radius: 5px;
+
+}
+
+.paragraph-styling {
+
+    margin: 3;
+    cursor: pointer;
+    font-size: 60px;
+    font-family: 'Viaoda Libre', cursive;
+    margin-right: 7%;
+}
+
+
+
